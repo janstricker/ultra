@@ -7,5 +7,5 @@ banner:
   button:
     enable: true
     label: "Jetzt Anmelden"
-    link: "https://github.com/zeon-studio/hugoplate"
+    link: "https://hugoplate.netlify.app/"
 ---
