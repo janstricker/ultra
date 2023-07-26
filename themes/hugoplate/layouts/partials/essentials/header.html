@@ -8,7 +8,7 @@
         {{ partial "logo" }}
       </a>
     </div>
-    <!-- navbar toggler -->
+    <!-- navbar toggler 
     <input id="nav-toggle" type="checkbox" class="hidden" />
     <label
       for="nav-toggle"
@@ -31,7 +31,7 @@
         </svg>
       </span>
     </label>
-    <!-- /navbar toggler -->
+    /navbar toggler -->
 
     <!-- main navbar -->
     <ul
@@ -113,7 +113,9 @@
       {{ end }}
     </ul>
 
+
     <div class="order-1 ml-auto flex items-center md:order-2 lg:ml-0">
+      <!--
       {{ with site.Params.search }}
         {{ if .enable }}
           <button
@@ -127,7 +129,7 @@
 
       {{ partial "components/language-switcher" (dict "Context" . "Class" "mr-5 pl-2 py-1 dark:bg-darkmode-theme-light rounded") }}
       {{ partial "components/theme-switcher" (dict "Class" "mr-5") }}
-
+        -->
 
       <!-- navigation btn -->
       {{ if site.Params.navigation_button.enable }}
