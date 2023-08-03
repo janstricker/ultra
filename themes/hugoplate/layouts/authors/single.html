@@ -20,23 +20,23 @@
             {{ .Content }}
           </div>
           <ul class="social-icons ml-4 mt-10 text-center">
-            {{ if .Params.social.facebook }}
+            {{ if .Params.social.strava }}
               <li>
                 <a
                   href="{{ . | safeURL }}"
                   target="_blank"
                   rel="noopener nofollow">
-                  <i class="fa-brands fa-facebook-f"></i>
+                  <i class="fa-brands fa-strava"></i>
                 </a>
               </li>
             {{ end }}
-            {{ if .Params.social.twitter }}
+            {{ if .Params.social.komoot }}
               <li>
                 <a
                   href="{{ . | safeURL }}"
                   target="_blank"
                   rel="noopener nofollow">
-                  <i class="fa-brands fa-twitter"></i>
+                  <i class="fa-basic fa-mountain"></i>
                 </a>
               </li>
             {{ end }}
@@ -50,6 +50,16 @@
                 </a>
               </li>
             {{ end }}
+            {{ if .Params.social.website }}
+            <li>
+              <a
+                href="{{ . | safeURL }}"
+                target="_blank"
+                rel="noopener nofollow">
+                <i class="fa-basic fa-envelope"></i>
+              </a>
+            </li>
+          {{ end }}
           </ul>
         </div>
       </div>
