@@ -1,50 +1,21 @@
 ############# English navigation ##############
 
 # main menu
-#[[main]]
-#name = "Home"
-#url = "/"
-#weight = 1
-#
-#[[main]]
-#name = "Elements"
-#url = "elements/"
-#weight = 2
-#
-#[[main]]
-#weight = 
-#name = "Pages"
-#hasChildren = true
-#
-  #[[main]]
-  #parent = "Pages"
-  #name = "Blog"
-  #url = "blog/"
-#
-  #[[main]]
-  #parent = "Pages"
-  #name = "Contact"
-  #url = "contact/"
-#
-  #[[main]]
-  #parent = "Pages"
-  #name = "Authors"
-  #url = "authors/"
-#
-  #[[main]]
-  #parent = "Pages"
-  #name = "Search"
-  #url = "search/"
-#
-  #[[main]]
-  #parent = "Pages"
-  #name = "Categories"
-  #url = "categories/"
-#
-  #[[main]]
-  #parent = "Pages"
-  #name = "404 Page"
-  #url = "404/"
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[main]]
+weight = 2
+name = "Blog"
+url = "blog/"
+
+[[main]]
+weight = 3
+name = "Organizers"
+url = "authors/"
+
 
 
 # footer menu
