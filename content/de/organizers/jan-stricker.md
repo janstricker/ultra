@@ -1,6 +1,6 @@
 ---
 title: Jan Stricker
-email: konrakt@janstricker.de
+email: kontakt@janstricker.de
 image: "/images/avatar.png"
 description: this is meta description
 social:

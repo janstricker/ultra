@@ -18,17 +18,17 @@
     {{ .Summary }}
   </p>
   <ul class="social-icons">
-    {{ if .Params.social.facebook }}
+    {{ if .Params.social.strava }}
       <li>
         <a href="{{ . | safeURL }}" target="_blank" rel="noopener nofollow">
-          <i class="fa-brands fa-facebook-f"></i>
+          <i class="fa-brands fa-strava"></i>
         </a>
       </li>
     {{ end }}
-    {{ if .Params.social.twitter }}
+    {{ if .Params.social.komoot }}
       <li>
         <a href="{{ . | safeURL }}" target="_blank" rel="noopener nofollow">
-          <i class="fa-brands fa-twitter"></i>
+          <i class="fa-solid fa-mountain"></i>
         </a>
       </li>
     {{ end }}
