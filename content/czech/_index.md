@@ -1,11 +1,11 @@
 ---
 # Banner
 banner:
-  title: "The first Ultra Trail in the Fichtelgebirge"
-  content: "We can't powerhike, that's why we are running."
+  title: "První Ultra Trail ve Fichtelgebirge"
+  content: "Nemůžeme šlapat, proto běžíme."
   image: "/images/fgb.webp"
   button:
     enable: true
-    label: "Register now"
+    label: "Přihlas se nyní"
     link: "https://hugoplate.netlify.app/"
 ---

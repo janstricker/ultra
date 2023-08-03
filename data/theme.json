@@ -31,9 +31,9 @@
   },
   "fonts": {
     "font_family": {
-      "primary": "Arial",
+      "primary": "Plus Jakarta Sans",
       "primary_type": "sans-serif",
-      "secondary": "Arial",
+      "secondary": "Magtis",
       "secondary_type": "sans-serif"
     },
     "font_size": {
