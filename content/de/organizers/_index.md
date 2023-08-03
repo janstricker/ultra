@@ -1,3 +1,4 @@
 ---
+slug: "organisatoren"
 title: "Organisatoren"
 ---

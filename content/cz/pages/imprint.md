@@ -1,5 +1,6 @@
 ---
-title: "Ochrana dat"
+slug: "otisk"
+title: "Otisk"
 meta_title: ""
 description: "this is meta description"
 draft: false

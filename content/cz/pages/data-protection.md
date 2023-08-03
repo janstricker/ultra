@@ -1,5 +1,6 @@
 ---
-title: "Datenschutz"
+slug: "ochrana-dat"
+title: "Ochrana Dat"
 meta_title: ""
 description: "this is meta description"
 draft: false

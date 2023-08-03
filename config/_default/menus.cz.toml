@@ -14,17 +14,17 @@ url = "blog/"
 [[main]]
 weight = 3
 name = "Organizátoři"
-url = "organizatori/"
+url = "organizers/"
 
 
 
 # footer menu
 [[footer]]
 name = "Otisk"
-url = "otisk/"
+url = "imprint/"
 weight = 1
 
 [[footer]]
 name = "Ochrana dat"
-url = "ochrana-dat/"
+url = "data-protection/"
 weight = 2

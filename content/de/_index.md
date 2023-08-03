@@ -6,6 +6,6 @@ banner:
   image: "/images/fgb.webp"
   button:
     enable: true
-    label: "Jetzt Anmelden"
+    label: "Jetzt anmelden"
     link: "https://hugoplate.netlify.app/"
 ---

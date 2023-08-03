@@ -1,5 +1,6 @@
 ---
-title: "Otisk"
+slug: "datenschutz"
+title: "Datenschutz"
 meta_title: ""
 description: "this is meta description"
 draft: false

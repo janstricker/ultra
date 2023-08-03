@@ -1,12 +1,12 @@
 ---
-title: "Ultramarathon im Fichtelgebirge"
+title: "Talk at the Jungbrunnen Selb"
 meta_title: ""
 description: "this is meta description"
 date: 2022-04-04T05:00:00Z
 image: "/images/image-placeholder.png"
-categories: ["Hintergründe", "Informationen"]
-author: "Jan Stricker"
-tags: ["Hintergründe", "Informationen"]
+categories: ["Backgrounds"]
+author: "Christian Pecher"
+tags: ["Selb", "Fichtelgebirge"]
 draft: false
 ---
 
