@@ -2,7 +2,7 @@
 
 # main menu
 [[main]]
-name = "Home"
+name = "Start"
 url = "/"
 weight = 1
 
@@ -13,18 +13,18 @@ url = "blog/"
 
 [[main]]
 weight = 3
-name = "Organizers"
-url = "organizers/"
+name = "Organisatoren"
+url = "organisatoren/"
 
 
 
 # footer menu
 [[footer]]
 name = "Impressum"
-url = "imprint/"
+url = "impressum/"
 weight = 1
 
 [[footer]]
 name = "Datenschutz"
-url = "data-protection/"
+url = "datenschutz/"
 weight = 2

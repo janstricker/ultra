@@ -2,7 +2,7 @@
 
 # main menu
 [[main]]
-name = "Home"
+name = "Začátek"
 url = "/"
 weight = 1
 
@@ -13,18 +13,18 @@ url = "blog/"
 
 [[main]]
 weight = 3
-name = "Organizers"
-url = "organizers/"
+name = "Organizátoři"
+url = "organizatori/"
 
 
 
 # footer menu
 [[footer]]
-name = "Impressum"
-url = "imprint/"
+name = "Otisk"
+url = "otisk/"
 weight = 1
 
 [[footer]]
-name = "Datenschutz"
-url = "data-protection/"
+name = "Ochrana dat"
+url = "ochrana-dat/"
 weight = 2
