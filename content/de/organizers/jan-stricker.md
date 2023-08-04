@@ -1,7 +1,7 @@
 ---
 title: Jan Stricker
 email: kontakt@janstricker.de
-image: "/images/avatar.png"
+image: "/images/js.jpg"
 description: this is meta description
 social:
   strava: https://www.strava.com/athletes/105491252

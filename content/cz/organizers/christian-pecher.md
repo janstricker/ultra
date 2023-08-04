@@ -1,7 +1,7 @@
 ---
 title: Christian Pecher
 email: christian@pecher.run
-image: "/images/avatar.png"
+image: "/images/cp.jpg"
 description: this is meta description
 social:
   strava: https://www.strava.com/athletes/24152579
