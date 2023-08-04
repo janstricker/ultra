@@ -14,7 +14,7 @@ url = "blog/"
 [[main]]
 weight = 3
 name = "Organizátoři"
-url = "organizers/"
+url = "authors/"
 
 
 
