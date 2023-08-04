@@ -3,10 +3,10 @@ title: "Ultramarathon in the Fichtelgebirge"
 meta_title: ""
 description: "this is meta description"
 date: 2022-04-04T05:00:00Z
-image: "/images/image-placeholder.png"
-categories: ["Backgrounds", "Information"]
+image: "/images/fgb.webp"
+categories: ["Backgrounds"]
 author: "Jan Stricker"
-tags: ["Backgrounds", "Information"]
+tags: ["Motivation", "Fichtelgebirge"]
 draft: false
 ---
 

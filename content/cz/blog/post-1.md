@@ -1,12 +1,12 @@
 ---
-title: "Ultramarathon in the Fichtelgebirge"
+title: "Ultramaraton v pohoří Fichtelgebirge"
 meta_title: ""
 description: "this is meta description"
 date: 2022-04-04T05:00:00Z
-image: "/images/image-placeholder.png"
-categories: ["Backgrounds", "Information"]
+image: "/images/fgb.webp"
+categories: ["Pozadí"]
 author: "Jan Stricker"
-tags: ["Backgrounds", "Information"]
+tags: ["Motivace", "Fichtelgebirge"]
 draft: false
 ---
 
