@@ -1,5 +1,6 @@
 ---
-title: "Datenschutz"
+slug: "data-protection"
+title: "Data Protection"
 meta_title: ""
 description: "this is meta description"
 draft: false

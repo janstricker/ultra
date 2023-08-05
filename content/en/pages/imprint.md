@@ -1,5 +1,6 @@
 ---
-title: "Impressum"
+slug: "imprint"
+title: "Imprint"
 meta_title: ""
 description: "this is meta description"
 draft: false
