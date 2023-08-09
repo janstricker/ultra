@@ -56,11 +56,12 @@ IT-Service Reiko Kretzschmar Web-Service4u
 Reiko Kretzschmar  
 Verbindungsweg 4  
 17309 Pasewalk  
-Telefon: 03973 - 215290 (kein telefonischer Kundensupport)  
+
+Telefon: [03973 - 215290](TEL:0397315290) (kein telefonischer Kundensupport)  
 Fax: 03973 - 215292  
 Steuernummer: 074/241/00379  
 Umsatzsteuer-ID: DE216864104  
-E-Mail (info(at)web-service4u)
+E-Mail [info@web-service4u.de](MAILTO:info@web-service4u.de)
 
 3\. Allgemeine Hinweise und Pflicht­informationen
 -------------------------------------------------
@@ -81,8 +82,8 @@ Jan Stricker
 Johanna-Dachs-Str. 36  
 93055 Regensburg
 
-Telefon: +4917680377587  
-E-Mail: info@fichtelultra.de
+Telefon: [+49 176 8037 7587](TEL:004917680377587)  
+E-Mail: [info@fichtelultra.de](MAILTO:info@fichtelultra.de)
 
 Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z. B. Namen, E-Mail-Adressen o. Ä.) entscheidet.
 

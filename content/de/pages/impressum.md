@@ -18,7 +18,7 @@ Johanna-Dachs-Str. 36
 Kontakt
 -------
 
-Telefon: +4917680377587  
+Telefon: [+49 176 8037 7587](TEL:004917680377587)  
 E-Mail: [info@fichtelultra.de](MAILTO:info@fichtelultra.de)
 
 Redaktionell verantwortlich
