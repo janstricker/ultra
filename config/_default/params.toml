@@ -53,10 +53,10 @@ show_categories = true
 
 # seo meta data for OpenGraph / Twitter Card
 [metadata]
-keywords = ["Boilerplate", "Hugo"]
-description = "Hugo & Tailwindcss Starter"
-author = "zeon.studio"
-image = "images/og-image.png"
+keywords = ["Fichtelultra", "Ultramarathon", "Fichtelgebirge"]
+description = "Ultratrailrun Fichtelgebirge 2024"
+author = "Fichtel Ultra"
+image = "images/teaser.jpg"
 
 
 # site verifications
