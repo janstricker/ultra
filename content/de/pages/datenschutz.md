@@ -5,8 +5,6 @@ description: "this is meta description"
 draft: false
 ---
 
-Datenschutz­erklärung
-=====================
 
 1\. Datenschutz auf einen Blick
 -------------------------------
