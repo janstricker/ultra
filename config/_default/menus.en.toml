@@ -21,10 +21,10 @@ url = "authors/"
 # footer menu
 [[footer]]
 name = "Imprint"
-url = "imprint/"
+url = "../impressum"
 weight = 1
 
 [[footer]]
 name = "Data Protection"
-url = "data-protection/"
+url = "../datenschutz"
 weight = 2

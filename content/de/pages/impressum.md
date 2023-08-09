@@ -1,6 +1,5 @@
 ---
-slug: "datenschutz"
-title: "Datenschutz"
+title: "Impressum"
 meta_title: ""
 description: "this is meta description"
 draft: false
