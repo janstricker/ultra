@@ -1,10 +1,9 @@
 ---
 title: "Datenschutz"
 meta_title: ""
-description: "this is meta description"
+description: "Datenschutzerklärung"
 draft: false
 ---
-
 
 1\. Datenschutz auf einen Blick
 -------------------------------
@@ -35,6 +34,12 @@ Sie haben jederzeit das Recht, unentgeltlich Auskunft über Herkunft, Empfänger
 
 Hierzu sowie zu weiteren Fragen zum Thema Datenschutz können Sie sich jederzeit an uns wenden.
 
+### Analyse-Tools und Tools von Dritt­anbietern
+
+Beim Besuch dieser Website kann Ihr Surf-Verhalten statistisch ausgewertet werden. Das geschieht vor allem mit sogenannten Analyseprogrammen.
+
+Detaillierte Informationen zu diesen Analyseprogrammen finden Sie in der folgenden Datenschutzerklärung.
+
 2\. Hosting
 -----------
 
@@ -50,16 +55,22 @@ Unser(e) Hoster wird bzw. werden Ihre Daten nur insoweit verarbeiten, wie dies z
 
 Wir setzen folgende(n) Hoster ein:
 
-IT-Service Reiko Kretzschmar Web-Service4u
+IT-Service Reiko Kretzschmar  
+Web-Service4u
+
 Reiko Kretzschmar  
 Verbindungsweg 4  
 17309 Pasewalk  
-
-Telefon: [03973 - 215290](TEL:0397315290) (kein telefonischer Kundensupport)  
+  
+Telefon: 03973 - 215290 (kein telefonischer Kundensupport)  
 Fax: 03973 - 215292  
 Steuernummer: 074/241/00379  
 Umsatzsteuer-ID: DE216864104  
-E-Mail [info@web-service4u.de](MAILTO:info@web-service4u.de)
+E-Mail info@web-service4u.de
+
+#### Auftragsverarbeitung
+
+Wir haben einen Vertrag über Auftragsverarbeitung (AVV) zur Nutzung des oben genannten Dienstes geschlossen. Hierbei handelt es sich um einen datenschutzrechtlich vorgeschriebenen Vertrag, der gewährleistet, dass dieser die personenbezogenen Daten unserer Websitebesucher nur nach unseren Weisungen und unter Einhaltung der DSGVO verarbeitet.
 
 3\. Allgemeine Hinweise und Pflicht­informationen
 -------------------------------------------------
@@ -78,9 +89,9 @@ Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
 
 Jan Stricker  
 Johanna-Dachs-Str. 36  
-93055 Regensburg
+93055 Regensburg  
 
-Telefon: [+49 176 8037 7587](TEL:004917680377587)  
+Telefon: [+49 176 8037 7587](TEL:004917680377587)
 E-Mail: [info@fichtelultra.de](MAILTO:info@fichtelultra.de)
 
 Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z. B. Namen, E-Mail-Adressen o. Ä.) entscheidet.
@@ -136,15 +147,27 @@ Diese Seite nutzt aus Sicherheitsgründen und zum Schutz der Übertragung vertra
 
 Wenn die SSL- bzw. TLS-Verschlüsselung aktiviert ist, können die Daten, die Sie an uns übermitteln, nicht von Dritten mitgelesen werden.
 
-4\. Datenerfassung auf dieser Website
--------------------------------------
+4\. Analyse-Tools und Werbung
+-----------------------------
 
-### Anfrage per E-Mail, Telefon oder Telefax
+### Matomo
 
-Wenn Sie uns per E-Mail, Telefon oder Telefax kontaktieren, wird Ihre Anfrage inklusive aller daraus hervorgehenden personenbezogenen Daten (Name, Anfrage) zum Zwecke der Bearbeitung Ihres Anliegens bei uns gespeichert und verarbeitet. Diese Daten geben wir nicht ohne Ihre Einwilligung weiter.
+Diese Website benutzt den Open Source Webanalysedienst Matomo.
 
-Die Verarbeitung dieser Daten erfolgt auf Grundlage von Art. 6 Abs. 1 lit. b DSGVO, sofern Ihre Anfrage mit der Erfüllung eines Vertrags zusammenhängt oder zur Durchführung vorvertraglicher Maßnahmen erforderlich ist. In allen übrigen Fällen beruht die Verarbeitung auf unserem berechtigten Interesse an der effektiven Bearbeitung der an uns gerichteten Anfragen (Art. 6 Abs. 1 lit. f DSGVO) oder auf Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO) sofern diese abgefragt wurde; die Einwilligung ist jederzeit widerrufbar.
+Mit Hilfe von Matomo sind wir in der Lage Daten über die Nutzung unserer Website durch die Websitebesucher zu erfassen und zu analysieren. Hierdurch können wir u. a. herausfinden, wann welche Seitenaufrufe getätigt wurden und aus welcher Region sie kommen. Außerdem erfassen wir verschiedene Logdateien (z. B. IP-Adresse, Referrer, verwendete Browser und Betriebssysteme) und können messen, ob unsere Websitebesucher bestimmte Aktionen durchführen (z. B. Klicks, Käufe u. Ä.).
 
-Die von Ihnen an uns per Kontaktanfragen übersandten Daten verbleiben bei uns, bis Sie uns zur Löschung auffordern, Ihre Einwilligung zur Speicherung widerrufen oder der Zweck für die Datenspeicherung entfällt (z. B. nach abgeschlossener Bearbeitung Ihres Anliegens). Zwingende gesetzliche Bestimmungen – insbesondere gesetzliche Aufbewahrungsfristen – bleiben unberührt.
+Die Nutzung dieses Analyse-Tools erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO. Der Websitebetreiber hat ein berechtigtes Interesse an der Analyse des Nutzerverhaltens, um sowohl sein Webangebot als auch seine Werbung zu optimieren. Sofern eine entsprechende Einwilligung abgefragt wurde, erfolgt die Verarbeitung ausschließlich auf Grundlage von Art. 6 Abs. 1 lit. a DSGVO und § 25 Abs. 1 TTDSG, soweit die Einwilligung die Speicherung von Cookies oder den Zugriff auf Informationen im Endgerät des Nutzers (z. B. Device-Fingerprinting) im Sinne des TTDSG umfasst. Die Einwilligung ist jederzeit widerrufbar.
+
+#### IP-Anonymisierung
+
+Bei der Analyse mit Matomo setzen wir IP-Anonymisierung ein. Hierbei wird Ihre IP-Adresse vor der Analyse gekürzt, sodass Sie Ihnen nicht mehr eindeutig zuordenbar ist.
+
+#### Cookielose Analyse
+
+Wir haben Matomo so konfiguriert, dass Matomo keine Cookies in Ihrem Browser speichert.
+
+#### Hosting
+
+Wir hosten Matomo ausschließlich auf unseren eigenen Servern, sodass alle Analysedaten bei uns verbleiben und nicht weitergegeben werden.
 
 Quelle: [https://www.e-recht24.de](https://www.e-recht24.de)
