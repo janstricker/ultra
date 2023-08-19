@@ -1,12 +1,12 @@
 {
   "main": [
     {
-      "name": "strava",
+      "name": "Strava",
       "icon": "fab fa-strava",
       "link": "https://www.strava.com/clubs/fichtelultra"
     },
     {
-      "name": "mail",
+      "name": "E-Mail",
       "icon": "fa-solid fa-envelope",
       "link": "mailto:info@fichtelultra.de"
     }
