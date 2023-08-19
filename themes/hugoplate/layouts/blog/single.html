@@ -13,7 +13,7 @@
             {{ .Title }}
           </h1>
           <ul class="mb-4">
-            <li class="mr-4 inline-block">
+            <!--<li class="mr-4 inline-block">
               <a
                 href="{{ `organizers/` | relLangURL }}{{ .Params.Author | urlize }}/">
                 <i class="fa-regular fa-circle-user mr-2"></i
@@ -32,7 +32,7 @@
                   {{ end }}
                 </a>
               {{ end }}
-            </li>
+            </li>-->
             <li class="mr-4 inline-block">
               <i class="fa-regular fa-clock mr-2"></i>
               {{ time.Format ":date_long" .PublishDate }}
@@ -41,7 +41,7 @@
           <div class="content mb-10">
             {{ .Content }}
           </div>
-          <div class="row items-start justify-between">
+          <!--<div class="row items-start justify-between">
             <div class="lg:col-5 mb-10 flex items-center lg:mb-0">
               <h5 class="mr-3">{{ i18n "tags" }} :</h5>
               <ul>
@@ -60,7 +60,7 @@
             <div class="lg:col-4 flex items-center">
               {{ partial "social-share" (dict "Class" "share-icons" "Title" (i18n "share") "Whatsapp" false "Telegram" false) }}
             </div>
-          </div>  
+          </div>-->
         </article>
       </div>
 
