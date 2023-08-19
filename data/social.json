@@ -1,14 +1,14 @@
 {
   "main": [
     {
-      "name": "instagram",
-      "icon": "fab fa-instagram",
-      "link": "https://www.instagram.com/wuetendefrauisstbrot"
+      "name": "strava",
+      "icon": "fab fa-strava",
+      "link": "https://www.strava.com/clubs/fichtelultra"
     },
     {
       "name": "mail",
       "icon": "fa-solid fa-envelope",
-      "link": "mailto:kontakt@janstricker.de"
+      "link": "mailto:info@fichtelultra.de"
     }
   ]
 }
