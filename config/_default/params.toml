@@ -61,11 +61,7 @@ image = "images/teaser.jpg"
 
 # site verifications
 [site_verification]
-google = ""   # Your verification code
-bing = ""     # Your verification code
-baidu = ""    # Your verification code
-facebook = "" # Your verification code
-mastodon = "" # Your verification code
+google = "VQs7Hkhl017CNvRc5EjTSz2lDt9JVVODiEB1a8TeRoY"
 
 # cookies
 [cookies]
