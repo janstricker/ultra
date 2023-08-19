@@ -2,7 +2,7 @@
 
 # main menu
 [[main]]
-name = "Start"
+name = "Startseite"
 url = "/"
 weight = 1
 
