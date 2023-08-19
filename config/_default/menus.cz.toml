@@ -1,17 +1,15 @@
 ############# English navigation ##############
 
 # main menu
-[[main]]
-name = "Začátek"
-url = "/"
-weight = 1
+#[[main]]
+#name = "Začátek"
+#url = "/"
+#weight = 1
 
-[[main]]
-weight = 2
-name = "Blog"
-url = "blog/"
-
-
+#[[main]]
+#weight = 2
+#name = "Blog"
+#url = "blog/"
 
 
 # footer menu
