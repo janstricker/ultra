@@ -11,10 +11,6 @@ weight = 2
 name = "Blog"
 url = "blog/"
 
-[[main]]
-weight = 3
-name = "Organizátoři"
-url = "authors/"
 
 
 
