@@ -40,7 +40,7 @@
               {{ time.Format ":date_full" .PublishDate }}
             </li>-->
           <!--</ul>-->
-          
+
           <div class="content mb-10">
             {{ .Content }}
           </div>
@@ -68,7 +68,8 @@
       </div>
 
       <!-- Related posts -->
-      <div class="section pb-0">
+      
+      <!--<div class="section pb-0">
         <h2 class="h3 mb-12">{{ i18n "related_posts" }}</h2>
         <div class="row">
           {{ $related := (where site.RegularPages "Section" "in" site.Params.mainSections) | intersect (where site.RegularPages ".Title" "!=" .Title) | union (site.RegularPages.Related . ) }}
@@ -78,7 +79,7 @@
             </div>
           {{ end }}
         </div>
-      </div>
+      </div>-->
     </div>
   </section>
 {{ end }}
