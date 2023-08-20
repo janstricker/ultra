@@ -12,7 +12,7 @@
           <h1 class="h2 mb-4">
             {{ .Title }}
           </h1>
-          <ul class="mb-4">
+          <!--<ul class="mb-4">
             <!--<li class="mr-4 inline-block">
               <a
                 href="{{ `organizers/` | relLangURL }}{{ .Params.Author | urlize }}/">
@@ -33,11 +33,14 @@
                 </a>
               {{ end }}
             </li>-->
+
+            <!--date causing problems
             <li class="mr-4 inline-block">
               <i class="fa-regular fa-clock mr-2"></i>
-              {{ time.Format ":date_long" .PublishDate }}
-            </li>
-          </ul>
+              {{ time.Format ":date_full" .PublishDate }}
+            </li>-->
+          <!--</ul>-->
+          
           <div class="content mb-10">
             {{ .Content }}
           </div>
