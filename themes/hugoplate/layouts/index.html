@@ -11,6 +11,14 @@
             <h4 class="mb-8">
               {{ .content | markdownify }}
             </h4>
+
+            {{ with .button }}
+              {{ if .enable }}
+                <a class="btn btn-primary" href="{{ .link | absURL }}">
+                  {{ .label }}
+                </a>
+              {{ end }}
+            {{ end }}
           </div>
           <div class="col-12">
             {{ partial "image" (dict "Src" .image "Alt" "Banner image" "Loading" "eager" "Class" "mx-auto rounded-2xl" "Size" "1200x") }}
