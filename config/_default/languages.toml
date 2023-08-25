@@ -1,20 +1,20 @@
 ################ German language ##################
 [de]
-languageName = "Deutsch"
+languageName = "DE"
 languageCode = "de-DE"
 contentDir = "content/de"
 weight = 1
 
 ################ Czech language ##################
 [cz]
-languageName = "Čeština"
+languageName = "CZ"
 languageCode = "cz"
 contentDir = "content/cz"
 weight = 2
 
 ################ English language ##################
 [en]
-languageName = "English"
+languageName = "EN"
 languageCode = "en-us"
 contentDir = "content/en"
 weight = 3
