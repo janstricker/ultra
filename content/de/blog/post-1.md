@@ -1,7 +1,7 @@
 ---
 title: "Vortrag im Jungbrunnen Selb"
-meta_title: ""
-description: "this is meta description"
+meta_title: "FichtelUltra – Vortrag im Jungbrunnen Selb"
+description: "Am 25.08.2023 hielt Christian Pecher einen Vortrag im Jungbrunnen in Selb über Ultra Trail Running."
 #date: 2023-08-25
 image: "/images/jb/01.jpeg"
 categories: ["Hintergründe"]
@@ -23,15 +23,17 @@ Diese Reise wird morgen fortgesetzt, denn es geht nach [Chamonix Mont-Blanc](htt
 
 Mit der Teilnahme erfülle ich mir einen großen Traum, ein Traum der von vielen anderen Trailläufer*innen auf der ganzen Welt geteilt wird. Die Vorfreude aber auch die Aufregung steigen.
 
->Knapp **47 Stunden** habe ich für die 170km lange Route Zeit.
+>Knapp **47 Stunden** habe ich für die 170 km lange Route Zeit.
 
 ## Links und Infos
 
-Wer noch mal einen Blick in den Vortrag am Jungbrunnen werfen will, kann meine [Präsentation](https://www.figma.com/proto/pZUaecNRhv7q0AnA9ZH8tz/Ultra-Trails-Fichtelgebirge-x-Chamonix?page-id=0%3A1&type=design&node-id=1-2&viewport=353%2C24%2C0.02&t=NtYdLiWM9KPnxRZ8-1&scaling=contain&mode=design) hier aufrufen. 
+Wer noch mal einen Blick in den Vortrag im Jungbrunnen werfen will, kann meine [Präsentation](https://www.figma.com/proto/pZUaecNRhv7q0AnA9ZH8tz/Ultra-Trails-Fichtelgebirge-x-Chamonix?page-id=0%3A1&type=design&node-id=1-2&viewport=353%2C24%2C0.02&t=NtYdLiWM9KPnxRZ8-1&scaling=contain&mode=design) hier aufrufen. 
 
 Wer mein Abenteuer in Frankreich verfolgen möchte, kann dies hier über den [Live Tracker von UTMB](https://live.utmb.world/utmb/2023/runners/1042) tun. 
 Am **Freitag 1. September, 18:00 Uhr** ist der Startschuss. 
 
 Alternativ könnt ihr mir gerne auch auf [Strava](https://www.strava.com/athletes/24152579), [Komoot](https://www.komoot.de/user/510978844869) oder [Instagram](https://www.instagram.com/andthegoats/) folgen.
+
+## Bildergalerie
 
 {{< gallery dir="images/jb/gallery" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
