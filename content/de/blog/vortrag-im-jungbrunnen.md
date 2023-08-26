@@ -27,7 +27,9 @@ Mit der Teilnahme erfülle ich mir einen großen Traum, ein Traum der von vielen
 
 ## Links und Infos
 
-Wer noch mal einen Blick in den Vortrag im Jungbrunnen werfen will, kann meine [Präsentation](https://www.figma.com/proto/pZUaecNRhv7q0AnA9ZH8tz/Ultra-Trails-Fichtelgebirge-x-Chamonix?page-id=0%3A1&type=design&node-id=1-2&viewport=353%2C24%2C0.02&t=NtYdLiWM9KPnxRZ8-1&scaling=contain&mode=design) hier aufrufen. 
+Wer noch mal einen Blick in den Vortrag im Jungbrunnen werfen will, kann die [Folien der Präsentation](https://www.figma.com/proto/pZUaecNRhv7q0AnA9ZH8tz/Ultra-Trails-Fichtelgebirge-x-Chamonix?page-id=0%3A1&type=design&node-id=1-2&viewport=353%2C24%2C0.02&t=NtYdLiWM9KPnxRZ8-1&scaling=contain&mode=design) hier aufrufen. 
+
+Ein Mitschnitt des Vortrages ist [hier auf YouTube](https://youtu.be/cYYYXE_11sQ) zu sehen.
 
 Wer mein Abenteuer in Frankreich verfolgen möchte, kann dies hier über den [Live Tracker von UTMB](https://live.utmb.world/utmb/2023/runners/1042) tun. 
 Am **Freitag 1. September, 18:00 Uhr** ist der Startschuss. 
