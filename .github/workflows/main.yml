@@ -1,5 +1,5 @@
 on: push
-name: Deploy website on push
+name: Deploy to Dev
 jobs:
   web-deploy:
     name: Deploy
@@ -11,8 +11,6 @@ jobs:
     - name: Sync files
       uses: SamKirkland/FTP-Deploy-Action@v4.3.4
       with:
-        server: ftp.webclient9.de
-        username: web1208f_ultra
-        password: KutButAcVocjav[
-        local-dir: ./public/
-        dry-run: true
+        server: ${{ secrets.server }}
+        username: ${{ secrets.devusername }}
+        password: ${{ secrets.devpassword }}
