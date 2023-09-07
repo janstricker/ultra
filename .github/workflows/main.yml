@@ -7,6 +7,10 @@ jobs:
     steps:
     - name: Get latest code
       uses: actions/checkout@v3
+
+    - name: Build Project
+      run: |
+        npm run build
     
     - name: Sync files
       uses: SamKirkland/FTP-Deploy-Action@v4.3.4
@@ -14,3 +18,4 @@ jobs:
         server: ${{ secrets.server }}
         username: ${{ secrets.devusername }}
         password: ${{ secrets.devpassword }}
+        dry-run: true
