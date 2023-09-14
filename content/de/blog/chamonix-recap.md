@@ -1,7 +1,7 @@
 ---
 title: "Test Post"
 meta_title: "FichtelUltra – Test Post"
-description: "Testing Post"
+description: "Chamonix Recap"
 #date: 2023-08-25
 image: "/images/jb/gallery/02.jpeg"
 categories: ["Hintergründe"]
@@ -10,7 +10,7 @@ tags: ["Hintergründe", "Fichtelgebirge"]
 draft: false
 ---
 
-## Test Post!
+## Chamonix Recap!
 
 Am 25. August 2023 hatte ich das Vergnügen, einen Vortrag im [Jungbrunnen in Selb](https://jungbrunnen-selb.de/) zu halten. Anhand einer Sammlung von Karten und Bildern gab es einen Einblick in meine persönliche Reise in die Welt des Trail- und Ultralaufs - eine Welt, die sowohl faszinierend skurril als auch unglaublich bereichernd ist.
 
