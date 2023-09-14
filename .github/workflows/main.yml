@@ -68,9 +68,9 @@ jobs:
     needs: build
     steps:
       - name: Sync files
-            uses: SamKirkland/FTP-Deploy-Action@v4.3.4
-            with:
-              server: ${{ secrets.server }}
-              username: ${{ secrets.devusername }}
-              password: ${{ secrets.devpassword }}
-              dry-run: true
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.4
+        with:
+          server: ${{ secrets.server }}
+          username: ${{ secrets.devusername }}
+          password: ${{ secrets.devpassword }}
+          dry-run: true
