@@ -55,4 +55,3 @@ jobs:
           server: ${{ secrets.server }}
           username: ${{ secrets.devusername }}
           password: ${{ secrets.devpassword }}
-          local.dir: ./public/
