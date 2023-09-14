@@ -5,7 +5,7 @@ baseURL = "/"
 # Title of your website (required).
 title = "Fichtel Ultra"
 # Your theme name
-theme = "Hugoplate"
+theme = "hugoplate"
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
 timeZone = "Europe/Berlin"
 # post pagination
