@@ -1,10 +1,11 @@
-# Sample workflow for building and deploying a Hugo site to GitHub Pages
-name: Deploy Hugo site to FTP
+name: Deploy to staging via ftp
 
 on:
-  # Runs on pushes targeting the default branch
+  # Runs on pushes targeting the staging branches
   push:
-    branches: ["develop-mvp"]
+    branches: 
+      - 'staging**'
+      - main
 
 # Environment variables available to all jobs and steps in this workflow
 env:
@@ -53,6 +54,6 @@ jobs:
         uses: SamKirkland/FTP-Deploy-Action@v4.3.4
         with:
           server: ${{ secrets.server }}
-          username: ${{ secrets.devusername }}
-          password: ${{ secrets.devpassword }}
+          username: ${{ secrets.stagingusername }}
+          password: ${{ secrets.stagingpassword }}
           local-dir: ./public/
