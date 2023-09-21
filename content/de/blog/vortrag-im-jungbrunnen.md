@@ -12,13 +12,13 @@ draft: false
 
 Am 25. August 2023 hatte ich das Vergnügen, einen Vortrag im [Jungbrunnen in Selb](https://jungbrunnen-selb.de/) zu halten. Anhand einer Sammlung von Karten und Bildern gab es einen Einblick in meine persönliche Reise in die Welt des Trail- und Ultralaufs - eine Welt, die sowohl faszinierend skurril als auch unglaublich bereichernd ist.
 
-{{< image src="/images/jb/09.jpeg" caption="Christian Pecher beim Lavaredo Ultra Trail 2023" alt="Christian Pecher beim Lavaredo Ultra Trail 2023" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="Christian Pecher beim Lavaredo Ultra Trail 2023"  webp="true" >}}
+{{<image src="/images/jb/09.jpeg" caption="Christian Pecher beim Lavaredo Ultra Trail 2023" alt="Christian Pecher beim Lavaredo Ultra Trail 2023" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="Christian Pecher beim Lavaredo Ultra Trail 2023"  webp="true" >}}
 
 ## Ultra Trail du Mont Blanc 2023
 
 Diese Reise wird morgen fortgesetzt, denn es geht nach [Chamonix Mont-Blanc](https://de.chamonix.com/), wo ich am legendären [UTMB - dem Ultra Trail du Mont Blanc](https://utmb.world/) - teilnehmen werde. Bei diesem 170 km langen Rennen wird das Mont-Blanc-Massiv umrundet, wobei fast 10.000 Höhenmeter im Aufstieg und 10.000 Höhenmeter im Abstieg zu bewältigen sind. 
 
-{{< image src="/images/jb/10.jpeg" caption="UTMB – Ultra Trail du Mont Blanc 2023" alt="3D Karte welche die Route des Ultra Trail du Mont Blanc 2023 zeigt" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="UTMB – Ultra Trail du Mont Blanc 2023"  webp="true" >}}
+{{<image src="/images/jb/10.jpeg" caption="UTMB – Ultra Trail du Mont Blanc 2023" alt="3D Karte welche die Route des Ultra Trail du Mont Blanc 2023 zeigt" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="UTMB – Ultra Trail du Mont Blanc 2023"  webp="true" >}}
 
 
 Mit der Teilnahme erfülle ich mir einen großen Traum, ein Traum der von vielen anderen Trailläufer*innen auf der ganzen Welt geteilt wird. Die Vorfreude aber auch die Aufregung steigen.
