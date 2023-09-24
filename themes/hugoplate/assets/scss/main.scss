@@ -6,6 +6,16 @@
   @import "base";
 }
 
+@font-face {
+  font-family: "Magtis";
+  src: url("../fonts/Mgts.otf");
+}
+
+@font-face {
+  font-family: "Plus Jakarta Sans";
+  src: url("../fonts/PlusJakartaSans-Medium.ttf");
+}
+
 @layer components {
   @import "components";
   @import "navigation";

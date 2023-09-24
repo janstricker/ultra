@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html
   itemscope
-  lang="{{ site.LanguageCode | default `en-US` }}"
+  lang="{{ site.LanguageCode | default `de-DE` }}"
   itemtype="http://schema.org/WebPage">
   <head>
     <!-- head (don't cache it) -->
@@ -16,7 +16,6 @@
     <!-- cache partial only in production -->
     {{ if hugo.IsProduction }}
       {{ partialCached "preloader.html" . }}
-      {{ partialCached "gtm-noscript.html" . }}
     {{ else }}
       {{ partial "preloader.html" . }}
 

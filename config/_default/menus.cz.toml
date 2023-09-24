@@ -1,0 +1,24 @@
+############# English navigation ##############
+
+# main menu
+#[[main]]
+#name = "Začátek"
+#url = "/"
+#weight = 1
+
+#[[main]]
+#weight = 2
+#name = "Blog"
+#url = "blog/"
+
+
+# footer menu
+[[footer]]
+name = "Otisk"
+url = "../impressum"
+weight = 1
+
+[[footer]]
+name = "Ochrana dat"
+url = "../datenschutz"
+weight = 2

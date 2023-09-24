@@ -9,6 +9,21 @@
 <!-- theme meta -->
 <meta name="theme-name" content="hugoplate" />
 
+<!-- matomo -->
+<script>
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//fichtelultra.de/analytics/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '1']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+
 <!-- favicon -->
 {{ partialCached "favicon" . }}
 
@@ -29,31 +44,5 @@
 {{ partialCached "custom-script.html" . }}
 
 
-<!-- google analytics -->
-{{ if and site.Config.Services.GoogleAnalytics.ID (ne site.Config.Services.GoogleAnalytics.ID "G-MEASUREMENT_ID") }}
-  {{ template "_internal/google_analytics.html" . }}
-{{ end }}
-
-
-<!-- google tag manager -->
-{{ partialCached "gtm.html" . }}
-
-
 <!-- search index -->
 {{ partial "search-index.html" . }}
-
-
-<!-- matomo analytics -->
-{{/* {{ partialCached "matomo-analytics.html" . }} */}}
-
-<!--  Baidu analytics -->
-{{/* {{ partialCached "baidu-analytics.html" . }} */}}
-
-<!-- Plausible Analytics -->
-{{/* {{ partialCached "plausible-analytics.html" . }} */}}
-
-<!-- Counter Analytics -->
-{{/* {{ partialCached "counter-analytics.html" . }} */}}
-
-<!-- Crisp Chat -->
-{{/* {{ partialCached "crisp-chat.html" . }} */}}
