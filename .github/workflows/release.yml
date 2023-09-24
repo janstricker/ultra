@@ -52,10 +52,10 @@ jobs:
           server: ${{ secrets.server }}
           username: ${{ secrets.username }}
           password: ${{ secrets.password }}
+          dry-run: true
           local-dir: ./public/
           exclude: |
             **/.git*
             **/.git*/**
             **/analytics/**
             **/node_modules/**
-          dry-run: true
