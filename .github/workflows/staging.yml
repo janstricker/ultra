@@ -58,3 +58,8 @@ jobs:
           username: ${{ secrets.stagingusername }}
           password: ${{ secrets.stagingpassword }}
           local-dir: ./public/
+          exclude: |
+            **/.git*
+            **/.git*/**
+            **/analytics/**
+            **/node_modules/**
