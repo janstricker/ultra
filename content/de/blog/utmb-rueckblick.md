@@ -1,7 +1,7 @@
 ---
-title: "Rückblick auf Chamonix"
-meta_title: "FichtelUltra – Satz mit X, Chamonix"
-description: "Chamonix Recap"
+title: "Rückblick auf den UTMB"
+meta_title: "FichtelUltra – Rückblick auf den UTMB"
+description: "Rückblick auf den UTMB"
 #date: 2023-09-18
 image: "/images/utmb/utmb-5.jpg"
 categories: ["Hintergründe"]
