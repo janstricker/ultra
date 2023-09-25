@@ -7,5 +7,5 @@ banner:
   button:
     enable: true
     label: "Zum Blog"
-    link: "/blog/vortrag-im-jungbrunnen/"
+    link: "/blog/"
 ---
