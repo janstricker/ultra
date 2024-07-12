@@ -34,8 +34,19 @@ Start: Alte Vorsuchhütte (700 m), Parkplatz
 
 Ende: Luisenburg (700 m), Luisenburg Hotel, Jean Paul Gedenkstein
 
-{{< button label="GPX Download" link="gpx/12_Gipfel_Tour_Fichtelgebirge.gpx" style="solid" >}}
+{{< button label="GPX Download" link="assets/gpx/12_Gipfel_Tour_Fichtelgebirge.gpx" style="solid" >}}
 
 ## Anfahrt
 
-## Sonstiges
+* [Wanderparkplatz Alte Vorsuchhütte auf Google Maps](https://maps.app.goo.gl/w5yLAAYB19tgVWhr7)
+* Koordinaten: 50,1800207, 12,0335467
+
+## Teilnahme
+
+* Es handelt sich um keine offizielle Veranstaltung, sondern einen Tourenvorschlag im privaten Rahmen
+* Es erfolgt keine Zeitmessung, Absperrung, Verpflegung, Transport oder ärztliche Versorgung
+* Die Teilnahme ist kostenlos und erfolgt auf eigenes Risiko 
+
+## Haftungsausschluss 
+
+Die Beanspruchung der auf dieser Homepage vorgestellten Touren erfolgt auf eigenes Risiko. Der Verfasser dieser Touren schließt die Haftungsübernahme für Schäden jeglicher Art aus. Dies gilt sowohl für Personen-, Tier- als auch für Sachschäden, insbesondere für Folgen von Unfällen. Der Verfasser setzt voraus, dass der Beansprucher der Wandervorschläge sich seiner körperlichen, psychischen und gesundheitlichen Grenzen bewusst ist. Der Beansprucher wird gegen den Verfasser der Touren keinerlei Ansprüche wegen Schäden und Verletzungen jeglicher Art, die durch die Inanspruchnahme der Wandertouren entstehen können, geltend machen. Für eventuelle seelische, körperliche oder materielle Schäden wird keine Haftung übernommen. Informieren Sie sich vor Beginn der Tour über die Wetterverhältnisse. Bitte beachten Sie darüber hinaus die Informationen oder Beschilderung vor Ort und berücksichtigen Sie, dass die Benutzung von Privatstraßen, insbesondere Forststraßen, landwirtschaftlichen Güterwegen und Wanderwegen rechtlichen Beschränkungen unterliegen kann. 
