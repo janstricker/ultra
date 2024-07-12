@@ -1,11 +1,11 @@
 ---
 # Banner
 banner:
-  title: "Ultra Trailrun im Fichtelgebirge"
-  content: "Frühjahr 2024 – Weitere Infos folgen"
+  title: "Ultra Fun Run"
+  content: "28.07.2024"
   image: "/images/teaser.jpg"
   button:
     enable: true
-    label: "Zum Blog"
-    link: "/blog/"
+    label: "Alle Infos"
+    link: "/events/fun-run"
 ---
