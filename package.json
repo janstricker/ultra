@@ -31,7 +31,6 @@
     "tailwindcss": "^3.3.3"
   },
   "dependencies": {
-    "leaflet": "^1.9.4",
-    "leaflet-plugins": "^3.4.0"
+    "@mvsde/iframe-click-to-play": "^0.4.0",
   }
 }
