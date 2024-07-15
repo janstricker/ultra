@@ -2,14 +2,19 @@
 
 # main menu
 [[main]]
-name = "Startseite"
-url = "/"
 weight = 1
+name = "Touren"
+url = "tour/"
 
 [[main]]
 weight = 2
 name = "Blog"
 url = "blog/"
+
+[[main]]
+weight = 3
+name = "Info"
+url = "about"
 
 
 

@@ -1,4 +1,0 @@
----
-slug: "organizatori"
-title: "Organizatorí"
----
