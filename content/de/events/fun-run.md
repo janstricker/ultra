@@ -10,10 +10,10 @@ tags: ["Events"]
 draft: false
 ---
 
-## Termin & Start
+## Termin
 
-* **28.07.2024**, Sonntag
-* **07:00 - 19:00 Uhr** – 12 Stunden Zeit Limit
+* 28.07.2024, Sonntag
+* 6:45 Uhr am Treffpunkt, 07:00 Uhr Start
 
 ## Strecke
 
