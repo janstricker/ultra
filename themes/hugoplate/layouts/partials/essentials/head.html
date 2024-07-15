@@ -24,18 +24,6 @@
   })();
 </script>
 
-<!-- iframe consent -->
-
-<script>
-import { IframeClickToPlay } from '@mvsde/iframe-click-to-play'
-  
-const iframe = document.querySelector('.iframe')
-const fallback = document.querySelector('.fallback')
-const trigger = document.querySelector('.trigger')
-
-new IframeClickToPlay({ iframe, fallback, trigger }).init()
-</script>
-
 <!-- favicon -->
 {{ partialCached "favicon" . }}
 

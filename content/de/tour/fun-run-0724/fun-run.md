@@ -28,18 +28,12 @@ Höhenmeter: ca. +1800 m | -1800 m
 ---
 
 <iframe 
-data-src="https://www.komoot.com/de-de/tour/1710757003/embed?share_token=aSCssLP790tj3O3zusQKCTfbvnWEtfRT126PbeIrKjllf1NLYN&profile=1" 
+src="https://www.komoot.com/de-de/tour/1710757003/embed?share_token=aSCssLP790tj3O3zusQKCTfbvnWEtfRT126PbeIrKjllf1NLYN&profile=1" 
 width="100%" 
 height="700" 
 frameborder="0" 
 scrolling="no">
 </iframe>
-
-<div class="fallback">
-  <h2>komoot</h2>
-  <p>Interaktive Karte von komoot (Externer Inhalt)</p>
-  <button class="trigger">Karte anzeigen</button>
-</div>
 
 ## Hintergründe
 
