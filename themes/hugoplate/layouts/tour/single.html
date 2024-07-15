@@ -1,0 +1,22 @@
+{{ define "main" }}
+  <section class="section pt-7">
+    <div class="container">
+      <div class="row justify-center">
+        <article class="lg:col-10">
+          {{ $image:= .Params.image }}
+          {{ if $image }}
+            <div class="mb-10">
+              {{ partial "image" (dict "Src" $image "Alt" .Title "Class" "w-full rounded-2xl") }}
+            </div>
+          {{ end }}
+          <h1 class="h1 mb-4">
+            {{ .Title }}
+          </h1>
+          <div class="content mb-16">
+            {{ .Content }}
+          </div>
+        </article>
+      </div>
+    </div>
+  </section>
+{{ end }}
