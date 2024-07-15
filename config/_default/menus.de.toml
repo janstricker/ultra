@@ -3,13 +3,18 @@
 # main menu
 [[main]]
 weight = 1
-name = "Events"
-url = "events/"
+name = "Touren"
+url = "tour/"
 
 [[main]]
 weight = 2
 name = "Blog"
 url = "blog/"
+
+[[main]]
+weight = 3
+name = "Info"
+url = "about"
 
 
 
