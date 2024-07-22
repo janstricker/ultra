@@ -2,10 +2,10 @@
 # Banner
 banner:
   title: "Fun Run"
-  content: "Sonntag 28.07.2024"
+  content: "Samstag 17.08.2024"
   button:
     enable: true
     label: "Alle Infos"
-    link: "/tour/fun-run-0724/fun-run"
+    link: "/tour/fun-run-0824/fun-run"
   image: "/images/cover.svg"
 ---
