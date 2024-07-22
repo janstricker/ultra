@@ -15,8 +15,9 @@ Komm' mit und finde heraus wie weit du es in deinem Tempo schaffen kannst. Alle 
 
 ## Termin
 
-* 17.08.2024, Samstag
-* 5:45 Uhr am Treffpunkt, 06:00 Uhr Start
+* **17.08.2024**, Samstag
+* **5:45 Uhr** am Treffpunkt [Wanderparktplatz Alte Vorsuchhütte](https://maps.app.goo.gl/w5yLAAYB19tgVWhr7)
+* **06:00 Uhr** Start!
 
 ## Strecke
 
