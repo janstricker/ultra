@@ -49,8 +49,8 @@ main {
 
 // content style
 .content {
-  @apply prose leading-6 md:leading-7 max-w-4xl;
-  @apply prose-headings:mb-[1em] prose-headings:mt-[2em];
+  @apply prose leading-6 md:leading-7 max-w-full;
+  @apply prose-headings:mb-[1em] prose-headings:mt-[0em] prose-headings:pt-[3em];
   @apply prose-h1:text-h1-sm md:prose-h1:text-h1;
   @apply prose-h2:text-h2-sm md:prose-h2:text-h2;
   @apply prose-h3:text-h3-sm md:prose-h3:text-h3;

@@ -1,7 +1,7 @@
 ---
 title: "Fun Run - 12 Gipfel Tour"
-meta_title: "FichtelUltra - 12 Gipfel Tour als Ultra Fun Run"
-description: "FichtelUltra - 12 Gipfel Tour als Ultra Fun Run"
+meta_title: "12 Gipfel in 12 Stunden – FichtelUltra Fun Run"
+description: "12 Gipfel in 12 Stunden – FichtelUltra Fun Run"
 image: "/images/fun-run-0724/cover.svg"
 categories: ["Touren"]
 author: "Jan Stricker"
@@ -9,14 +9,19 @@ tags: ["Touren"]
 draft: false
 ---
 
-Das ganze Fichtelgebirge an einem Tag? Vielleicht auch nur ein Stück davon. Ein zwangloser Fun Run macht es möglich! 
+{{< toc >}}
 
-Komm' mit und finde heraus wie weit du es in deinem Tempo schaffen kannst. Alle Altersklassen und Leistungsniveaus sind willkommen sich auszuprobieren. Ob wandern, laufen oder nur ein Stück spazieren. Es geht um nichts, außer den persönlichen Erfolg.
+## 12 Gipfel in 12 Stunden
+
+Das ganze Fichtelgebirge an einem Tag? Vielleicht auch nur ein Stück davon. Ein zwangloser Fun Run macht es möglich! Am Samstag den 17.08.2024 starten wir den ersten Versuch die berühmte 12 Gipfel Tour im Fichtelgebirge als Trailrunning Event zu absolvieren. <br>
+Wir bewegen uns in einer zügigen Wandergeschwindigkeit und einigen Passagen im Trailrunning-Tempo knapp 60 km vom Kornberg bei Selb bis zur Luisenburg bei Wunsiedel. <br>
+Alle Altersklassen und Leistungsniveaus sind willkommen sich auszuprobieren. Es geht um nichts, außer den persönlichen Erfolg. Komm' mit und finde heraus wie weit du es schaffen kannst.
+
 
 ## Termin
 
 * **17.08.2024**, Samstag
-* **5:45 Uhr** am Treffpunkt [Wanderparktplatz Alte Vorsuchhütte](https://maps.app.goo.gl/w5yLAAYB19tgVWhr7)
+* **05:30 Uhr** Treffpunkt [Wanderparktplatz Alte Vorsuchhütte](https://maps.app.goo.gl/w5yLAAYB19tgVWhr7)
 * **06:00 Uhr** Start!
 
 ## Strecke
@@ -43,9 +48,9 @@ Die angegebenen Zeitpunkte an den Stationen beziehen sich auf eine Gesamtdauer v
 | :------ | :---------------- | ----------------------------------------------------------------------------------------------------------------------- | :-------------------- |
 |         | **Start**         | Alte Vorsuchhütte (700 m) <br> [Wanderparkplatz](https://maps.app.goo.gl/w5yLAAYB19tgVWhr7)                             | 06:00 Uhr             |
 | 1,3 km  | 1. Gipfel         | Großer Kornberg (827 m) <br> Spitze des steinernen Turmes Schönburgwarte                                                | 06:17 Uhr             |
-| 9,0 km | **Ein-/Ausstieg** | Waldbad Kirchenlamitz <br> [Kreuzung Hasenmühle/Fuchsmühlweg](https://maps.app.goo.gl/3GzrDm535o4KUwGMA)                | 07:45 Uhr             |
+| 9,0 km | **Ein-/Ausstieg** | Waldbad Kirchenlamitz <br> [Kreuzung Hasenmühle/Fuchsmühlweg](https://maps.app.goo.gl/3GzrDm535o4KUwGMA)                 | 07:45 Uhr             |
 | 11,0 km | 2.  Gipfel        | Epprechtstein (798 m) <br> Spitze der Aussichtsplattform                                                                | 08:15 Uhr             |
-| 18,0 km | 3. Gipfel + **Ein-/Ausstieg** (Restaurant)         | Großer Waldstein (877 m) <br> Spitze der Aussichtsplattform Schüssel                                                    | 09:40 Uhr             |
+| 18,0 km | 3. Gipfel <br> <br>**Ein-/Ausstieg**         | Großer Waldstein (877 m) <br> Spitze der Aussichtsplattform Schüssel <br> Restraurant                   | 09:40 Uhr             |
 | 23,0 km | **Ein-/Ausstieg** | Weißenstädter See <br> [Kreuzung Uferweg/Stadtweiherweg, Restaurant Syrtaki](https://maps.app.goo.gl/ERUmzf5S2qgHmSzS7) | 10:30 Uhr             |
 | 26,5 km | 4. Gipfel         | Rudolfstein (866 m) <br> Spitze der Aussichtsplattform                                                                  | 11:20 Uhr             |
 | 29,5 km | 5. Gipfel         | Schneeberg (1,051 m) <br> Spitze der Aussichtsplattform Backöfele                                                       | 12:00 Uhr             |
@@ -66,6 +71,12 @@ Die angegebenen Zeitpunkte an den Stationen beziehen sich auf eine Gesamtdauer v
 Grundsätzlich folgt die Tour der hier angegebenen GPS-Route, jedoch können die 12 Gipfel in beliebiger Reihenfolge und Richtung, ausgehend von den Start-/Endpunkten der Route, besucht werden. Aus diesem Grund besteht die Route aus insgesamt 14 Punkten, die besucht werden müssen, um die Tour erfolgreich abzuschließen. <br>
 Einige der Gipfel sind mit Türmen oder Aussichtsplattformen ausgestattet, die ebenfalls bestiegen werden müssen. Diese Punkte sind in der folgenden Liste gekennzeichnet und beschrieben (die weißen verlassenen Militärtürme auf dem Kornberg und dem Schneeberg müssen und können nicht bestiegen werden). Das Seehaus ist ein optionaler Trigonometriepunkt und muss nicht besucht werden, um die Route abzuschließen.
 
+## Teilnahme
+
+Es ist keine Anmeldung erfolderlich. Alle Teilnehmenden, die sich rechtzeitig am [Treffpunkt](#termin) einfinden, erhalten ein Abzeichen und einen kleinen Gegenstand, welchen sie während der Tour bei sich tragen dürfen. 
+<br>
+Die Teilnahme ist kostenlos und erfolgt auf eigenes Risiko. Es handelt sich um keine offizielle Veranstaltung, sondern einen Tourenvorschlag im privaten Rahmen. Es erfolgen keine Zeitmessung, Absperrung, Verpflegung, Transport oder ärztliche Versorgung
+
 ## Hintergründe
 
 Die 12 Gipfel Tour gilt als eine der prestigeträchtigsten Routen im [Fichtelgebirge](https://www.fichtelgebirge.bayern/) und verbindet die schönsten und höchsten Punkte des Naturparks mit spektakulären Aussichten. Neben dem höchsten Gipfel Frankens und Nordbayerns, dem Schneeberg, führt die Tour über insgesamt 12 Gipfel, mit fast 2000 Höhenmetern Auf- und 2000 Höhenmetern Abstieg, und erstreckt sich über rund 60 Kilometer.
@@ -74,11 +85,9 @@ Ursprünglich von [Dr. Roman Lebek](https://www.frankenpost.de/inhalt.gipfelglue
 
 Da sich die Tour neben Wanderungen auch hervorragend für Trailrunning eignet, wurden seit 2022 bereits [mehrere Zeitrekorde](https://fastestknowntime.com/route/12-gipfel-tour-germany) erfasst.
 
-## Teilnahme
+## Mobilität
 
-* Die Teilnahme ist kostenlos und erfolgt auf eigenes Risiko 
-* Es handelt sich um keine offizielle Veranstaltung, sondern einen Tourenvorschlag im privaten Rahmen
-* Es erfolgt keine Zeitmessung, Absperrung, Verpflegung, Transport oder ärztliche Versorgung
+Zwischen Start und Ziel liegen ca. [26 min/36 km Fahrt mit dem Auto](https://maps.app.goo.gl/DfDDo7vywzujFtDK8). Je nach persönlichem Ein-/Ausstiegspunkt kann eventuell auch auf öffentliche Nahverkehrsangebote wie [FichtelBaxi (Anrufbus)](https://freiraum-fichtelgebirge.de/fichtelbaxi/) zurückgegriffen werden.
 
 ## Haftungsausschluss 
 
@@ -94,4 +103,4 @@ Bitte beachten Sie darüber hinaus die Informationen oder Beschilderung vor Ort 
 
 ---
 
-Zuletzt aktualisiert: 24.07.2024
+Zuletzt aktualisiert: 29.07.2024

@@ -1,8 +1,8 @@
 ---
 # Banner
 banner:
-  title: "Fun Run"
-  content: "Samstag 17.08.2024"
+  title: "Fun Run 12 Gipfel Tour"
+  content: "12 Gipfel in 12 Stunden – Samstag 17.08.2024"
   button:
     enable: true
     label: "Alle Infos"
