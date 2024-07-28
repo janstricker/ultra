@@ -31,36 +31,36 @@ scrolling="no">
 
 Gesamte Strecke: 
 * Distanz: ca. 60 km
-* Höhenmeter: ca. +1800 m | -1800 m
+* Höhenmeter: ca. +2000 m | -2000 m
 
 {{< button label="GPX Download" link="tour/fun-run-0724/gpx/12_Gipfel_Tour_Fichtelgebirge.gpx" style="solid" >}}
 
 ## Verlauf
 
-Die angegebenen Zeitpunkte an den Stationen beziehen sich auf eine Gesamtdauer von ca. 10 h bzw. ein durchschnittliches Lauftempo von 9:40 min/km / 6,4 km/h inkl. kurzen Pausen.
+Die angegebenen Zeitpunkte an den Stationen beziehen sich auf eine Gesamtdauer von ca. 12 h bzw. ein durchschnittliches Lauftempo von 12:00 min/km / 5,0 km/h inkl. kurzen Pausen.
 
 | Distanz | Wegpunkt          | Ort                                                                                                                     | Zeitpunkt (geschätzt) |
 | :------ | :---------------- | ----------------------------------------------------------------------------------------------------------------------- | :-------------------- |
 |         | **Start**         | Alte Vorsuchhütte (700 m) <br> [Wanderparkplatz](https://maps.app.goo.gl/w5yLAAYB19tgVWhr7)                             | 06:00 Uhr             |
-| 1,3 km  | 1. Gipfel         | Großer Kornberg (827 m) <br> Spitze des steinernen Turmes Schönburgwarte                                                | 06:15 Uhr             |
-| 10,0 km | **Ein-/Ausstieg** | Waldbad Kirchenlamitz <br> [Kreuzung Hasenmühle/Fuchsmühlweg](https://maps.app.goo.gl/3GzrDm535o4KUwGMA)                | 07:30 Uhr             |
-| 11,3 km | 2.  Gipfel        | Epprechtstein (798 m) <br> Spitze der Aussichtsplattform                                                                | 07:40 Uhr             |
-| 18,3 km | 3. Gipfel         | Großer Waldstein (877 m) <br> Spitze der Aussichtsplattform Schüssel                                                    | 08:30 Uhr             |
-| 23,0 km | **Ein-/Ausstieg** | Weißenstädter See <br> [Kreuzung Uferweg/Stadtweiherweg, Restaurant Syrtaki](https://maps.app.goo.gl/ERUmzf5S2qgHmSzS7) | 09:00 Uhr             |
-| 27,0 km | 4. Gipfel         | Rudolfstein (866 m) <br> Spitze der Aussichtsplattform                                                                  | 10:00 Uhr             |
-| 30,0 km | 5. Gipfel         | Schneeberg (1,051 m) <br> Spitze der Aussichtsplattform Backöfele                                                       | 10:30 Uhr             |
-| 32,2 km | 6. Gipfel         | Nusshardt (972 m) <br> Spitze der Aussichtsplattform                                                                    | 10:45 Uhr             |
-| 35,0 km | **Ein-/Ausstieg** | [Wanderparkplatz an der B303](https://maps.app.goo.gl/LjWmnatdQt8DZVZN8) <br>  Karches                                  | 11:00 Uhr             |
-| 38,3 km | 7. Gipfel         | Ochsenkopf (1,024 m) <br> Spitze des steinernen Turmes Asenturm, Zugang via Restaurant                                  | 11:45 Uhr             |
-| 42,7 km | **Ein-/Ausstieg** | [Parkplatz Seehaus an der B303](https://maps.app.goo.gl/59rhb6WKhnFqZ2Xy9)                                              | 12:30 Uhr             |
-| 46,5 km | 8. Gipfel         | Platte (885 m) <br> Gipfelkreuz                                                                                         | 13:15 Uhr             |
-| 48,5 km | **Ein-/Ausstieg** | [Parkplatz Silberhaus an der B303](https://maps.app.goo.gl/68MKMea8LKWZkWTq5)                                           | 13:30 Uhr             |
-| 51,8 km | 9. Gipfel         | Hohe Matze (813 m) <br> Gipfelkreuz (unwegsames Gelände)                                                                | 14:00 Uhr             |
-| 54,3 km | **Ein-/Ausstieg** | [Wanderparkplatz Kösseine](https://maps.app.goo.gl/Tpz9bGXV48h4hTzM8) <br> Hohenbrand, Nagel                            | 14:30 Uhr             |
-| 56,3 km | 10. Gipfel        | Große Kösseine (939 m) <br> Spitze der Aussichtsplattform Kösseineturm                                                  | 15:00 Uhr             |
-| 58,4 km | 11. Gipfel        | Großer Haberstein (847 m) <br> Spitze der Aussichtsplattform                                                            | 15:25 Uhr             |
-| 59,2 km | 12. Gipfel        | Burgstein (879 m) (Burgsteinfelsen) <br> Spitze der Aussichtsplattform                                                  | 15:40 Uhr             |
-| 61,3 km | **Ziel**          | [Luisenburg Resort (700 m)](https://maps.app.goo.gl/7mVkhwZQ2u9uCbSS6) <br> Jean Paul Gedenkstein                       | 16:00 Uhr             |
+| 1,3 km  | 1. Gipfel         | Großer Kornberg (827 m) <br> Spitze des steinernen Turmes Schönburgwarte                                                | 06:17 Uhr             |
+| 9,0 km | **Ein-/Ausstieg** | Waldbad Kirchenlamitz <br> [Kreuzung Hasenmühle/Fuchsmühlweg](https://maps.app.goo.gl/3GzrDm535o4KUwGMA)                | 07:45 Uhr             |
+| 11,0 km | 2.  Gipfel        | Epprechtstein (798 m) <br> Spitze der Aussichtsplattform                                                                | 08:15 Uhr             |
+| 18,0 km | 3. Gipfel + **Ein-/Ausstieg** (Restaurant)         | Großer Waldstein (877 m) <br> Spitze der Aussichtsplattform Schüssel                                                    | 09:40 Uhr             |
+| 23,0 km | **Ein-/Ausstieg** | Weißenstädter See <br> [Kreuzung Uferweg/Stadtweiherweg, Restaurant Syrtaki](https://maps.app.goo.gl/ERUmzf5S2qgHmSzS7) | 10:30 Uhr             |
+| 26,5 km | 4. Gipfel         | Rudolfstein (866 m) <br> Spitze der Aussichtsplattform                                                                  | 11:20 Uhr             |
+| 29,5 km | 5. Gipfel         | Schneeberg (1,051 m) <br> Spitze der Aussichtsplattform Backöfele                                                       | 12:00 Uhr             |
+| 31,5 km | 6. Gipfel         | Nusshardt (972 m) <br> Spitze der Aussichtsplattform                                                                    | 12:35 Uhr             |
+| 34,0 km | **Ein-/Ausstieg** | [Wanderparkplatz an der B303](https://maps.app.goo.gl/LjWmnatdQt8DZVZN8) <br>  Karches                                  | 13:10 Uhr             |
+| 37,5 km | 7. Gipfel         | Ochsenkopf (1,024 m) <br> Spitze des steinernen Turmes Asenturm, Zugang via Restaurant                                  | 14:00 Uhr             |
+| 41,5 km | **Ein-/Ausstieg** | [Parkplatz Seehaus an der B303](https://maps.app.goo.gl/59rhb6WKhnFqZ2Xy9)                                              | 14:30 Uhr             |
+| 45,5 km | 8. Gipfel         | Platte (885 m) <br> Gipfelkreuz                                                                                         | 15:10 Uhr             |
+| 47,5 km | **Ein-/Ausstieg** | [Parkplatz Silberhaus an der B303](https://maps.app.goo.gl/68MKMea8LKWZkWTq5)                                           | 15:30 Uhr             |
+| 50,5 km | 9. Gipfel         | Hohe Matze (813 m) <br> Gipfelkreuz (unwegsames Gelände)                                                                | 16:00 Uhr             |
+| 53,0 km | **Ein-/Ausstieg** | [Wanderparkplatz Kösseine](https://maps.app.goo.gl/Tpz9bGXV48h4hTzM8) <br> Hohenbrand, Nagel                            | 16:30 Uhr             |
+| 55,0 km | 10. Gipfel        | Große Kösseine (939 m) <br> Spitze der Aussichtsplattform Kösseineturm                                                  | 17:10 Uhr             |
+| 57,0 km | 11. Gipfel        | Großer Haberstein (847 m) <br> Spitze der Aussichtsplattform                                                            | 17:25 Uhr             |
+| 57,7 km | 12. Gipfel        | Burgstein (879 m) (Burgsteinfelsen) <br> Spitze der Aussichtsplattform                                                  | 17:40 Uhr             |
+| 60,0 km | **Ziel**          | [Luisenburg Resort (700 m)](https://maps.app.goo.gl/7mVkhwZQ2u9uCbSS6) <br> Jean Paul Gedenkstein                       | 17:50 Uhr             |
 
 
 Grundsätzlich folgt die Tour der hier angegebenen GPS-Route, jedoch können die 12 Gipfel in beliebiger Reihenfolge und Richtung, ausgehend von den Start-/Endpunkten der Route, besucht werden. Aus diesem Grund besteht die Route aus insgesamt 14 Punkten, die besucht werden müssen, um die Tour erfolgreich abzuschließen. <br>
@@ -94,4 +94,4 @@ Bitte beachten Sie darüber hinaus die Informationen oder Beschilderung vor Ort 
 
 ---
 
-Zuletzt aktualisiert: 22.07.2024
+Zuletzt aktualisiert: 24.07.2024
