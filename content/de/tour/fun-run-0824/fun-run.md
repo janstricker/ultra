@@ -109,7 +109,7 @@ Folgende Ausrüstung ist optional
 
 Alle Teilnehmenden sind selbst für ihre Verpflegung unterwegs verantwortlich. Es werden keine Versorgungsstationen zur Verfügung gestellt. Verpflegung durch Freunde & Familie entlang der Tour ist erlaubt. Die Tour führt auch entlang mehrerer Ortschaften, Brunnen und Gaststätten (bitte die Öffnungszeiten beachten). Um im Zeitplan zu bleiben planen wir als Gruppe keine längeren Pausen einzulegen und stetig in Bewegung zu bleiben.
 
-Bei einer deratig langen und anspruchsvolleren Belastung wird empfohlen regelmäßig und häufig zu essen und entsprechende Verpflegung mit sich zu führen. Gut eignen sich hierfür Riegel, Sport-Gels, Gummibärchen und andere Snacks welche auch in Bewegung gut konsumiert werden können (Faustregel: stündlich ca. 40-60g Kohlehydrate). Zudem ist es sehr ratsam nicht nur ausreichend zu trinken, sondern auch Elektrolyte in vorm von Tabletten oder Pulvern zu sich zu nehmen.
+Bei einer deratig langen und anspruchsvolleren Belastung wird empfohlen regelmäßig und häufig zu essen und entsprechende Verpflegung mit sich zu führen. Gut eignen sich hierfür Riegel, Sport-Gels, Gummibärchen und andere Snacks welche auch in Bewegung gut konsumiert werden können (Faustregel: stündlich ca. 40-60g Kohlehydrate). Zudem ist es sehr ratsam nicht nur ausreichend zu trinken, sondern auch Elektrolyte in Form von Tabletten oder Pulvern zu sich zu nehmen.
 
 ## Hintergründe
 
