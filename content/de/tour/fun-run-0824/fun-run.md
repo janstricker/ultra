@@ -91,19 +91,19 @@ Die Tour ist nur mit geeigneter Wander-/Laufbekleidung zu absolvieren.
 Die Asurüstung sollte zudem dem vorhergesagten Wetter angepasst werden.
 
 Folgende Ausrüstung wird empfohlen:
-• Trail-Running Schuhe
-• kleines Erste Hilfe Set
-• Laufweste oder kleiner Rucksack
-• Regenjacke (gegen Nässe, Wind und Kälte)
-• Schirmmütze (gegen Sonne)
-• zweites Oberteil zum Wechseln
-• Handy
+* Trail-Running Schuhe
+* kleines Erste Hilfe Set
+* Laufweste oder kleiner Rucksack
+* Regenjacke (gegen Nässe, Wind und Kälte)
+* Schirmmütze (gegen Sonne)
+* zweites Oberteil zum Wechseln
+* Handy
 
 Folgende Ausrüstung ist optional
-• Wander-/Laufstöcke
-• Sonnenbrille
-• zusätzliche Wechselkleidung
-• Sonnencreme
+* Wander-/Laufstöcke
+* Sonnenbrille
+* zusätzliche Wechselkleidung
+* Sonnencreme
 
 ## Verpflegung
 
