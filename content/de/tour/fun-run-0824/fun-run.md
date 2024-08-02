@@ -11,9 +11,9 @@ draft: false
 
 {{< toc >}}
 
-Das ganze Fichtelgebirge an einem Tag? Vielleicht auch nur ein Stück davon. Ein zwangloser Fun Run macht es möglich! Am Samstag den 17.08.2024 starten wir den ersten Versuch die [berühmte 12 Gipfel Tour im Fichtelgebirge](#hintergründe) als Trailrunning Event zu absolvieren.
+Das ganze Fichtelgebirge laufend erkunden? Vielleicht auch nur ein Stück davon. Ein zwangloser Fun Run macht es möglich! Am Samstag den 17.08.2024 starten wir den ersten Versuch die [berühmte 12 Gipfel Tour im Fichtelgebirge](#hintergründe) als Trailrunning Event zu absolvieren.
 
-Wir bewegen uns in einer zügigen Wandergeschwindigkeit und einigen Passagen im Trailrunning-Tempo knapp 60 km vom Kornberg bei Selb bis zur Luisenburg bei Wunsiedel.
+Ziel ist nicht gegeneinander sondern miteinander zu laufen und als Gruppe die gesamte Strecke von ca. 60 km in 12 Stunden zu absolvieren. Um dies zu schaffen bewegen wir uns etwas zügiger als das normale Wandertempo. Downhills und ebene Passgen werden wir laufend zurücklegend und die meisten Anstiege wandernd.
 
 Alle Altersklassen und Leistungsniveaus sind willkommen sich auszuprobieren. Es geht um nichts, außer den persönlichen Erfolg. Komm' mit und finde heraus wie weit du es schaffen kannst.
 
@@ -42,13 +42,13 @@ Gesamte Strecke:
 
 ## Verlauf
 
-Die angegebenen Zeitpunkte an den Stationen beziehen sich auf eine Gesamtdauer von ca. 12 h bzw. ein durchschnittliches Lauftempo von 12:00 min/km / 5,0 km/h inkl. kurzen Pausen.
+Die angegebenen Zeitpunkte an den Stationen beziehen sich auf eine Gesamtdauer von ca. 12 h bzw. ein durchschnittliches Lauftempo von 12:00 min/km / 5,0 km/h inkl. kurzer Pausen.
 
 | Distanz | Wegpunkt                      | Ort                                                                                                                                              | Zeitpunkt (geschätzt) |
 | :------ | :---------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------- |
 |         | **Start**                     | Alte Vorsuchhütte (700 m) <br> [Wanderparkplatz](https://maps.app.goo.gl/w5yLAAYB19tgVWhr7)                                                      | 06:00 Uhr             |
-| 1,3 km  | 1. Gipfel                     | Großer Kornberg (827 m) <br> Spitze des steinernen Turmes Schönburgwarte                                                                         | 06:17 Uhr             |
-| 9,0 km  | **Ein-/Ausstieg**             | Waldbad Kirchenlamitz <br> [Kreuzung Hasenmühle/Fuchsmühlweg](https://maps.app.goo.gl/3GzrDm535o4KUwGMA)                                         | 07:45 Uhr             |
+| 1,2 km  | 1. Gipfel                     | Großer Kornberg (827 m) <br> Spitze des steinernen Turmes Schönburgwarte                                                                         | 06:17 Uhr             |
+| 9,0 km  | **Ein-/Ausstieg**             | Nahkauf Kirchenlamitz <br> [Kreuzung Hasenmühle/Fuchsmühlweg](https://maps.app.goo.gl/3GzrDm535o4KUwGMA)                                         | 07:45 Uhr             |
 | 11,0 km | 2.  Gipfel                    | Epprechtstein (798 m) <br> Spitze der Aussichtsplattform                                                                                         | 08:15 Uhr             |
 | 18,0 km | 3. Gipfel + **Ein-/Ausstieg** | Großer Waldstein (877 m) <br> Spitze der Aussichtsplattform Schüssel <br> [Restaurant Waldsteinhaus](https://maps.app.goo.gl/iEUGbPkdp5WA4MWn9) | 09:40 Uhr             |
 | 23,0 km | **Ein-/Ausstieg**             | Weißenstädter See <br> [Kreuzung Uferweg/Stadtweiherweg, Restaurant Syrtaki](https://maps.app.goo.gl/ERUmzf5S2qgHmSzS7)                          | 10:30 Uhr             |
@@ -62,12 +62,12 @@ Die angegebenen Zeitpunkte an den Stationen beziehen sich auf eine Gesamtdauer v
 | 47,5 km | **Ein-/Ausstieg**             | [Parkplatz Silberhaus an der B303](https://maps.app.goo.gl/68MKMea8LKWZkWTq5)                                                                    | 15:30 Uhr             |
 | 50,5 km | 9. Gipfel                     | Hohe Matze (813 m) <br> Gipfelkreuz (unwegsames Gelände)                                                                                         | 16:00 Uhr             |
 | 53,0 km | **Ein-/Ausstieg**             | [Wanderparkplatz Kösseine](https://maps.app.goo.gl/Tpz9bGXV48h4hTzM8) <br> Hohenbrand, Nagel                                                     | 16:30 Uhr             |
-| 55,0 km | 10. Gipfel                    | Große Kösseine (939 m) <br> Spitze der Aussichtsplattform Kösseineturm                                                                           | 17:10 Uhr             |
+| 55,5 km | 10. Gipfel                    | Große Kösseine (939 m) <br> Spitze der Aussichtsplattform Kösseineturm                                                                           | 17:10 Uhr             |
 | 57,0 km | 11. Gipfel                    | Großer Haberstein (847 m) <br> Spitze der Aussichtsplattform                                                                                     | 17:25 Uhr             |
-| 57,7 km | 12. Gipfel                    | Burgstein (879 m) (Burgsteinfelsen) <br> Spitze der Aussichtsplattform                                                                           | 17:40 Uhr             |
+| 58,3 km | 12. Gipfel                    | Burgstein (879 m) (Burgsteinfelsen) <br> Spitze der Aussichtsplattform                                                                           | 17:40 Uhr             |
 | 60,0 km | **Ziel**                      | [Luisenburg Resort (700 m)](https://maps.app.goo.gl/7mVkhwZQ2u9uCbSS6) <br> Jean Paul Gedenkstein                                                | 17:50 Uhr             |
 
-Einige der Gipfel sind mit Türmen oder Aussichtsplattformen ausgestattet, die ebenfalls bestiegen werden müssen. Die weißen, verlassenen Militärtürme auf dem Kornberg und dem Schneeberg können nicht bestiegen werden. Das Seehaus ist ein optionaler Trigonometriepunkt.
+Einige der Gipfel sind mit Türmen oder Aussichtsplattformen ausgestattet, die ebenfalls bestiegen werden müssen. Die weißen, verlassenen Militärtürme auf dem Kornberg und dem Schneeberg können nicht bestiegen werden.
 
 ## Teilnahme
 
@@ -75,17 +75,41 @@ Es ist keine Anmeldung erforderlich. Alle Teilnehmenden, die sich rechtzeitig am
 
 Die Teilnahme ist kostenlos und erfolgt auf eigenes Risiko. Es handelt sich um keine offizielle Veranstaltung, sondern einen Tourenvorschlag im privaten Rahmen. Es erfolgen keine Zeitmessung, Absperrung, Verpflegung, Transport oder ärztliche Versorgung
 
+## Format
+
+Ziel ist es als Gruppe die Gesamte Strecke in 12 Stunden zu absolvieren. Dennoch ist es möglich an den aufgeführten Punkten vorzeitig auszusteigen oder auch zu einem späteren Zeitpunkt einzutreten und nur einen Teil der Strecke im angestrebten Tempo zu begleiten. Dies muss von jeder Person in eigener verantwortung geplant werden.
+
 ## Mobilität
 
 Zwischen Start und Ziel liegen [ca. 25 min / ca. 30 km Fahrt mit dem Auto](https://maps.app.goo.gl/DfDDo7vywzujFtDK8). 
 
 Je nach persönlichem Ein-/Ausstiegspunkt kann eventuell auch auf öffentliche Nahverkehrsangebote wie [FichtelBaxi (Anrufbus)](https://freiraum-fichtelgebirge.de/fichtelbaxi/) zurückgegriffen werden.
 
-## Ausrüstung & Verpflegung
+## Ausrüstung
 
-Die Tour ist nur mit geeigneter Wander-/Laufbekleidung zu absolvieren. Besondere Ausrüstung ist optional, z.B. Wanderstöcke. Kletterausrüstung bzw. besonderer Schutz ist nicht notwendig.
+Die Tour ist nur mit geeigneter Wander-/Laufbekleidung zu absolvieren.
+Die Asurüstung sollte zudem dem vorhergesagten Wetter angepasst werden.
 
-Alle Teilnehmenden sind selbst für ihre Verpflegung unterwegs verantwortlich. Es werden keine Versorgungsstationen zur Verfügung gestellt. Verpflegung durch Freunde & Familie entlang der Tour ist erlaubt. Die Tour führt auch entlang mehrerer Ortschaften, Brunnen und Gaststätten (bitte die Öffnungszeiten beachten). 
+Folgende Ausrüstung wird empfohlen:
+• Trail-Running Schuhe
+• kleines Erste Hilfe Set
+• Laufweste oder kleiner Rucksack
+• Regenjacke (gegen Nässe, Wind und Kälte)
+• Schirmmütze (gegen Sonne)
+• zweites Oberteil zum Wechseln
+• Handy
+
+Folgende Ausrüstung ist optional
+• Wander-/Laufstöcke
+• Sonnenbrille
+• zusätzliche Wechselkleidung
+• Sonnencreme
+
+## Verpflegung
+
+Alle Teilnehmenden sind selbst für ihre Verpflegung unterwegs verantwortlich. Es werden keine Versorgungsstationen zur Verfügung gestellt. Verpflegung durch Freunde & Familie entlang der Tour ist erlaubt. Die Tour führt auch entlang mehrerer Ortschaften, Brunnen und Gaststätten (bitte die Öffnungszeiten beachten). Um im Zeitplan zu bleiben planen wir als Gruppe keine längeren Pausen einzulegen und stetig in Bewegung zu bleiben.
+
+Bei einer deratig langen und anspruchsvolleren Belastung wird empfohlen regelmäßig und häufig zu essen und entsprechende Verpflegung mit sich zu führen. Gut eignen sich hierfür Riegel, Sport-Gels, Gummibärchen und andere Snacks welche auch in Bewegung gut konsumiert werden können (Faustregel: stündlich ca. 40-60g Kohlehydrate). Zudem ist es sehr ratsam nicht nur ausreichend zu trinken, sondern auch Elektrolyte in vorm von Tabletten oder Pulvern zu sich zu nehmen.
 
 ## Hintergründe
 
@@ -107,4 +131,4 @@ Darüber hinaus sind die Informationen oder Beschilderung vor Ort zu berücksich
 
 ---
 
-Zuletzt aktualisiert: 29.07.2024
+Zuletzt aktualisiert: 02.08.2024
