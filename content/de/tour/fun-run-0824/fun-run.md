@@ -134,4 +134,4 @@ Darüber hinaus sind die Informationen oder Beschilderung vor Ort zu berücksich
 
 ---
 
-Zuletzt aktualisiert: 02.08.2024
+Zuletzt aktualisiert: 04.08.2024
