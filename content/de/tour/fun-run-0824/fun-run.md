@@ -2,7 +2,7 @@
 title: "12 Gipfel in 12 Stunden"
 meta_title: "12 Gipfel in 12 Stunden – FichtelUltra Fun Run"
 description: "12 Gipfel in 12 Stunden – FichtelUltra Fun Run"
-image: "/images/fun-run-0724/cover.svg"
+image: "/images/fun-run/cover.svg"
 categories: ["Touren"]
 author: "Jan Stricker"
 tags: ["Touren"]
@@ -26,6 +26,13 @@ Alle Altersklassen und Leistungsniveaus sind willkommen sich auszuprobieren. Es 
 
 ## Strecke
 
+* Distanz: ca. 60 km
+* Höhenmeter: ca. +2000 m | -2000 m
+
+{{< button label="GPX Download" link="tour/fun-run-0724/gpx/12_Gipfel_Tour_Fichtelgebirge.gpx" style="solid" >}}
+
+{{<image src="/images/fun-run/fun-run-12gt-plot.svg" caption="Alle Informationen zur geplanten Strecke." alt="Ein Höhenprofil welches alle Eckdaten der Route zeigt." height="" width="" position="center" command="fill" option="q100" class="img-fluid">}}
+
 <iframe 
 src="https://www.komoot.com/de-de/tour/1710757003/embed?share_token=aSCssLP790tj3O3zusQKCTfbvnWEtfRT126PbeIrKjllf1NLYN&profile=1" 
 width="100%" 
@@ -34,11 +41,7 @@ frameborder="0"
 scrolling="no">
 </iframe>
 
-Gesamte Strecke: 
-* Distanz: ca. 60 km
-* Höhenmeter: ca. +2000 m | -2000 m
 
-{{< button label="GPX Download" link="tour/fun-run-0724/gpx/12_Gipfel_Tour_Fichtelgebirge.gpx" style="solid" >}}
 
 ## Verlauf
 
